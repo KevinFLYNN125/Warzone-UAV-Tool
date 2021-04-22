@@ -17,6 +17,8 @@ Get a leg up from the competition by seeing where your enemies are at all times!
 
 Coded in Java
 
+![warzone](https://i.ibb.co/gjgXfcx/Capture.png)
+
 
 
 https://www.youtube.com/watch?v=AkB1dlMpvpQ
