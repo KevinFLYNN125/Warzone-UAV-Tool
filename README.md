@@ -17,11 +17,11 @@ Get a leg up from the competition by seeing where your enemies are at all times!
 
 Coded in Java
 
-![warzone](https://i.ibb.co/gjgXfcx/Capture.png)
+[![warzone](https://img.youtube.com/vi/AkB1dlMpvpQ/0.jpg)](https://www.youtube.com/watch?v=AkB1dlMpvpQ)
 
 
 
 https://www.youtube.com/watch?v=AkB1dlMpvpQ
 
 
-[![warzone](https://img.youtube.com/vi/AkB1dlMpvpQ/0.jpg)](https://www.youtube.com/watch?v=AkB1dlMpvpQ)
+
